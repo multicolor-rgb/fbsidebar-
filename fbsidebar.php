@@ -1,12 +1,5 @@
 <?php
-/*
-Plugin Name: Hello World
-Description: Echos "Hello World" in footer of theme
-Version: 1.0
-Author: Chris Cagle
-Author URI: http://www.cagintranet.com/
-*/
- 
+
 # get correct id for plugin
 $thisfile=basename(__FILE__, ".php");
  
